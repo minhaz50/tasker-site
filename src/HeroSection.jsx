@@ -5,7 +5,7 @@ export default function HeroSection() {
     <section className="pb-[114px] pt-20 md:mt-[100px]">
       <div className="container lg:px-20">
         <div className="grid items-center md:grid-cols-2">
-          <div className="flex justify-center md:order-2">
+          <div className="flex justify-center  md:order-2">
             <img
               className="rounded-xl animate-updown "
               src={Frame}
